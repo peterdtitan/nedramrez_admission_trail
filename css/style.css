@@ -1,0 +1,27 @@
+#image {
+    display:block;
+    margin:auto;
+    max-width: 100%;
+    width: auto;
+    height: 500; 
+}
+
+main {
+    font-family: sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 100%; 
+}
+
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+h1#title{
+    font-size: 50px;
+    font-weight: 800px;
+}
+#img-caption{
+    text-align: center;
+    font-weight: bold;
+}
